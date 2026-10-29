@@ -1,0 +1,6 @@
+Create a 1080x1080 Facebook post for ClassLms (LMS for teachers and educational institutes in Sri Lanka), in Sinhala.
+Style: brand orange (#f97316) and navy (#172033) on a soft cream background, rounded chips, clean modern layout.
+Headline: ඔබේ පන්තිය, එකම තැනකින් කළමනාකරණය කරන්න
+Subtext: ගුරුවරුන්ට සහ අධ්‍යාපන ආයතනවලට නවීන LMS පද්ධතියක්.
+Chips: පාඨමාලා, සිසුන්, පන්ති, පැමිණීම, ගෙවීම්, විභාග
+Footer bar: "අදම අප හා සම්බන්ධ වන්න" with contact number 0703474125 shown under the post content.
